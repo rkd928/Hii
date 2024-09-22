@@ -12,7 +12,7 @@ For example, the objects in the following images were detected using [mmdetectio
 
 
 <p align = "center">
-  <img src="0922.png" alt="0922" width="600"/>
+  <img src="09221.png" alt="0922" width="600"/>
  
 </p>
 
